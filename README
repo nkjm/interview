@@ -1,0 +1,6 @@
+SOFTWARE:
+    interview.py
+
+OVERVIEW:
+    This is a python module to provide interactive configuration of the options on executing program.
+
